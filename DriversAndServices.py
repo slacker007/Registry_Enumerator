@@ -1,6 +1,6 @@
 ##############################################################################################################################
 #                               				 OFFENSIVE FORENSIC FRAMEWORK   								   			 #
-#											 (WIRELESS NETWORK FORENSICS MODULE)											 #
+#											 (WINDOWS DRIVERS AND SERVICES FORENSICS MODULE)											 #
 #											Compatible w/ Win 7,8,10 (x86 & 64)												 #
 #												(MODIFIED ORIGINAL SEPT 2015)												   			 #
 #															 BY 												   			 #
