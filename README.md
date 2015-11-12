@@ -1,2 +1,2 @@
 # Registry_Enumerator
-Package of Modules that Enumerate Windows Registry (x86 &amp; 64) Win7,8,8.1,10.  outputs into xml document.  
+Package of Modules that Enumerate Windows Registry (x86 &amp; 64) Win7,8,8.1,10.  outputs into xml document. This executable is a framework that can be scaled to enumerate any variation of registry information by merely adding two entries to the code.  It outputs that data locally in an xml format.  If there are any questions or recommendations leave a comment on the blog.  http://cybersyndicates.com
